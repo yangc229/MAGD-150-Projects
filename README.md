@@ -2,7 +2,7 @@
 
 ##Lab 3: Math
 
-[CLick to see the source](https://github.com/yangc229/MAGD-150-Projects/blob/gh-pages/f21magd150lab03_yang1/sketch.js)
+[Click to see the source](https://github.com/yangc229/MAGD-150-Projects/blob/gh-pages/f21magd150lab03_yang1/sketch.js)
 
 [Math HTML](https://github.com/yangc229/MAGD-150-Projects/blob/gh-pages/f21magd150lab03_yang1/index.html)
 

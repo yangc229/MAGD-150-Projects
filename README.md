@@ -20,7 +20,7 @@
 
 ## Lab 9: Sound&Video
 
-[Click to see the source](https://github.com/yangc229/MAGD-150-Projects/blob/gh-pages/f21magd150lab09_YANG/sketch.js
+[Click to see the source](https://github.com/yangc229/MAGD-150-Projects/blob/gh-pages/f21magd150lab09_YANG/sketch.js)
 
 [Sound&Video HTML](https://github.com/yangc229/MAGD-150-Projects/blob/gh-pages/f21magd150lab09_YANG/index.html)
 

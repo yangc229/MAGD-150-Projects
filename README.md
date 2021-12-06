@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+#MAGD 150 Examples
 
-You can use the [editor on GitHub](https://github.com/yangc229/MAGD-150-Projects/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+##Lab 3: Math
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[CLick to see the source](https://github.com/yangc229/MAGD-150-Projects/blob/gh-pages/f21magd150lab03_yang1/sketch.js)
 
-### Markdown
+[Math HTML](https://github.com/yangc229/MAGD-150-Projects/blob/gh-pages/f21magd150lab03_yang1/index.html)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##Lab 7: Objects
 
-```markdown
-Syntax highlighted code block
+[Click to see the source](https://github.com/yangc229/MAGD-150-Projects/blob/gh-pages/f21magd150lab07_yang/sketch.js)
 
-# Header 1
-## Header 2
-### Header 3
+[Objects HTML](https://github.com/yangc229/MAGD-150-Projects/blob/gh-pages/f21magd150lab07_yang/index.html)
 
-- Bulleted
-- List
+##Lab 8: Type&Image
 
-1. Numbered
-2. List
+[Click to see the source](https://github.com/yangc229/MAGD-150-Projects/blob/gh-pages/f21magd150_lab08_YANG/sketch.js)
 
-**Bold** and _Italic_ and `Code` text
+[Type&Image HTML](https://github.com/yangc229/MAGD-150-Projects/blob/gh-pages/f21magd150_lab08_YANG/index.html)
 
-[Link](url) and ![Image](src)
-```
+##Lab 9: Sound&Video
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+[Click to see the source](https://github.com/yangc229/MAGD-150-Projects/blob/gh-pages/f21magd150lab09_YANG/sketch.js
 
-### Jekyll Themes
+[Sound&Video HTML](https://github.com/yangc229/MAGD-150-Projects/blob/gh-pages/f21magd150lab09_YANG/index.html)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yangc229/MAGD-150-Projects/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+##Lab 10: 3D&Data
 
-### Support or Contact
+[Click to see the source](https://github.com/yangc229/MAGD-150-Projects/blob/gh-pages/f21magd150lab10_yang/sketch.js)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[3D&Data HTML](https://github.com/yangc229/MAGD-150-Projects/blob/gh-pages/f21magd150lab10_yang/index.html)
